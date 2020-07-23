@@ -1,0 +1,19 @@
+.list,ul{
+    list-style-type: none;
+}
+.list,ul,li{
+    display: inline;
+    padding: 20px;
+}
+ .design{
+     margin-left:20.5rem;
+ }
+
+.title{
+  text-align:center;
+ } 
+ .end,img{
+     height:500px;
+     width: 1550px;
+     margin-top:15px;
+ }  
